@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
-I'm a CS final year undergrad at Amrita Vishwa Vidyapeetham 
-I'm an incoming Site Reliability Engineer@Cisco
-To reach me out - sreejithsankar55@gmail.com
+
+I'm a CS final year undergrad at Amrita Vishwa Vidyapeetham.  
+I'm an incoming Site Reliability Engineer@Cisco.  
+Reach me - sreejithsankar55@gmail.com
 
 Technologies:
 - C++, Java, Python
