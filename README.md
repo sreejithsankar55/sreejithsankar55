@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <br />
 
 I'm a CS final year undergrad at Amrita Vishwa Vidyapeetham.  
-I'm an incoming Site Reliability Engineer@Cisco.  
 Reach me - sreejithsankar55@gmail.com
 
 Technologies:
