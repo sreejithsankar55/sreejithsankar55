@@ -36,7 +36,6 @@ Reach me - sreejithsankar55@gmail.com
 
 Technologies:
 - C++, Java, Python
-- Spring Boot
 
 Also interested in:
 - Distributed Systems, Problem Solving, Competitive Programming, DS & Algo
