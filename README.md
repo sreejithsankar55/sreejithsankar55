@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Site Reliability Engineer @ Cisco  
+Software Engineer @ Cisco  
 Reach me - sreejithsankar55@gmail.com
 
 Technologies:
