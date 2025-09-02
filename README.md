@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 Software Engineer @ Microsoft  
 Reach me - sreejithsankar55@gmail.com
 
+YouTube: https://www.youtube.com/@codingdynamo
+
 Technologies:
 - C++, Java, Python
 
